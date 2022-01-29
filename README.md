@@ -1,6 +1,6 @@
 # Big Data Analysis over Human Proteins with Apache Spark
 
-![](mii_ssbw_icon.png)
+![](mii_spark_icon.png)
 
 
 This repo tries to solve classification problems using computational techniques based on Big Data. The framework used is Spark using the deep learning library `MLLib` and using the python wrapper: `pyspark`.
